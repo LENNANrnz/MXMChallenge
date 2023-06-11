@@ -1,0 +1,63 @@
+.graficocomp {
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.painelGrafico {
+
+
+
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.2px);
+    -webkit-backdrop-filter: blur(9.2px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    height: 45rem;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.infodados {
+    margin-top: 1rem;
+}
+
+.cpumodel {
+    font-weight: lighter;
+    font-size: 2.5rem;
+    margin: auto;
+    width: 100%;
+}
+
+.listaestatic {
+    list-style: none;
+    display: flex;
+    margin: auto;
+    max-width: 75%;
+    justify-content: space-between;
+    padding-top: 2rem;
+    font-size: 1.25rem;
+    
+}
+
+.dados{
+    display: block;
+    max-width: 15rem;
+    color: rgb(209, 209, 209);
+    height: 100%;
+    padding: 1rem;
+    background: rgba(72, 9, 155, 0.267);
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.2px);
+    -webkit-backdrop-filter: blur(9.2px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.graficopainel{
+
+height: 5rem;
+}

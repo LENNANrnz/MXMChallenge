@@ -1,0 +1,62 @@
+.containertable {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.2px);
+    -webkit-backdrop-filter: blur(9.2px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    overflow-y: scroll;
+    max-height: 30rem;
+    scroll-behavior: smooth;
+}
+
+.telapainel{
+    height: 100vh;
+}
+
+.containertable::-webkit-scrollbar {
+    width: 8px;
+}
+
+.containertable::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.containertable::-webkit-scrollbar-thumb {
+    background-color: rgb(49, 49, 49);
+    border-radius: 25px;
+    height: 10px;
+}
+
+
+.table {
+
+    border-collapse: separate;
+    border-spacing: 3rem;
+}
+
+.headers {
+
+    background: rgba(72, 9, 155, 0.267);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.2px);
+    -webkit-backdrop-filter: blur(9.2px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 1rem;
+}
+
+.headers:hover {
+
+    cursor: pointer;
+}
+
+.dadostabela{
+    color: rgb(209, 209, 209);
+}
