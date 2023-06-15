@@ -20,7 +20,7 @@ Certifique-se de ter as seguintes dependências instaladas em sua máquina:
 
 1. Clone este repositório para o seu ambiente local.
 2. Navegue até o diretório raiz dos projetos frontend e backend.
-3. Execute o seguinte comando para instalar as dependências do servidor:  mpm i
+3. Execute o seguinte comando para instalar as dependências do servidor: npm i
 4. Depois execute o comando: npm run dev
 
 
