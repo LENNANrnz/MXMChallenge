@@ -25,3 +25,16 @@ Certifique-se de ter as seguintes dependências instaladas em sua máquina:
 
 
 Com o front-end e o back-end rodando em sua máquina você conseguirá ver os dados do gerenciador de tarefas no seu navegador.
+
+## Autor 
+<ul>
+ <li>
+      <img src="https://img.shields.io/badge/Dev-Lennan%20Renzo-blueviolet">
+      <a href="https://github.com/LENNANrnz">
+        <img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/lennanrnz/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white">
+      </a>
+    </li>
+    <ul>
